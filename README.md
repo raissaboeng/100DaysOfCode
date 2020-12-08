@@ -11,6 +11,16 @@
 
 ## 📃 Conteúdo
 
+#### Web Design responsivo
+- [x] HTML básico e HTML5 - freecodecamp
+- [ ] CSS básico
+- [ ] Design Visual Aplicado
+- [ ] Acessibilidade Aplicada
+- [ ] Princípios de Web Design Responsivo
+- [ ] CSS Flexbox
+- [ ] CSS Grid
+- [ ] Projetos de Web Design Responsivo
+
 #### Javascript básico
 - [ ] Variáveis e dados
 - [ ] Operações matemáticas
@@ -39,7 +49,7 @@
 
 | Dia  |  Conteúdo  |
 | ------------------- | ------------------- |
-| 1 |   |
+| 1 | HTML básico e HTML5 - freecodecamp  |
 | 2 |   |
 | 3 |   |
 | 4 |   |
