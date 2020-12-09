@@ -22,18 +22,18 @@
 - [ ] Projetos de Web Design Responsivo
 
 #### Javascript básico
-- [ ] Variáveis e dados
-- [ ] Operações matemáticas
-- [ ] Funções
-- [ ] Condicionais
-- [ ] Operadores lógicos
-- [ ] Condição ternária
-- [ ] Estruturas de repetição
-- [ ] Intervalo e timeout
-- [ ] DOM
-- [ ] Requisições AJAX
-- [ ] Promises
-- [ ] Utilizando Axios
+- [x] Variáveis e dados
+- [x] Operações matemáticas
+- [x] Funções
+- [x] Condicionais
+- [x] Operadores lógicos
+- [x] Condição ternária
+- [x] Estruturas de repetição
+- [x] Intervalo e timeout
+- [x] DOM
+- [x] Requisições AJAX
+- [x] Promises
+- [x] Utilizando Axios
 
 #### Javascript ES6
 
@@ -50,7 +50,7 @@
 | Dia  |  Conteúdo  |
 | ------------------- | ------------------- |
 | 1 | HTML básico e HTML5 - freecodecamp  |
-| 2 |   |
+| 2 | Javascript básico - Curso starter Rocketseat  |
 | 3 |   |
 | 4 |   |
 | 5 |   |
