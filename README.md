@@ -13,7 +13,7 @@
 
 #### Web Design responsivo
 - [x] HTML básico e HTML5 - freecodecamp
-- [ ] CSS básico
+- [x] CSS básico
 - [ ] Design Visual Aplicado
 - [ ] Acessibilidade Aplicada
 - [ ] Princípios de Web Design Responsivo
@@ -50,7 +50,7 @@
 | Dia  |  Conteúdo  |
 | ------------------- | ------------------- |
 | 1 | HTML básico e HTML5 - freecodecamp  |
-| 2 | Javascript básico - Curso starter Rocketseat  |
+| 2 | Javascript básico - Curso starter Rocketseat && CSS básico - freecodecamp  |
 | 3 |   |
 | 4 |   |
 | 5 |   |
