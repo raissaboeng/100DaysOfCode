@@ -36,6 +36,19 @@
 - [x] Utilizando Axios
 
 #### Javascript ES6
+- [ ] Instalando Node & Yarn
+- [ ] Configurando Babel
+- [ ] Classes
+- [ ] Const & Let
+- [ ] Operações em Array
+- [ ] Arrow Functions
+- [ ] Valores padrão
+- [ ] Desestruturação
+- [ ] Operadores rest/spread
+- [ ] Template Literals
+- [ ] Object Short Syntax
+- [ ] Webpack server
+- [ ] Async/await
 
 #### Node
 
