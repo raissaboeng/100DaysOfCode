@@ -14,7 +14,7 @@
 #### Web Design responsivo
 - [x] HTML básico e HTML5 - freecodecamp
 - [x] CSS básico
-- [ ] Design Visual Aplicado
+- [x] Design Visual Aplicado
 - [ ] Acessibilidade Aplicada
 - [ ] Princípios de Web Design Responsivo
 - [ ] CSS Flexbox
@@ -51,7 +51,7 @@
 | ------------------- | ------------------- |
 | 1 | HTML básico e HTML5 - freecodecamp  |
 | 2 | Javascript básico - Curso starter Rocketseat && CSS básico - freecodecamp  |
-| 3 |   |
+| 3 | Design Visual Aplicado(Cores, propriedades visuais de texto, animações, posicionamento elementos - freecodecamp |
 | 4 |   |
 | 5 |   |
 | 6 |   |
