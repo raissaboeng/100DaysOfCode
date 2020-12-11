@@ -36,17 +36,17 @@
 - [x] Utilizando Axios
 
 #### Javascript ES6
-- [ ] Instalando Node & Yarn
-- [ ] Configurando Babel
-- [ ] Classes
-- [ ] Const & Let
-- [ ] Operações em Array
-- [ ] Arrow Functions
-- [ ] Valores padrão
-- [ ] Desestruturação
-- [ ] Operadores rest/spread
-- [ ] Template Literals
-- [ ] Object Short Syntax
+- [x] Instalando Node & Yarn
+- [x] Configurando Babel
+- [x] Classes
+- [x] Const & Let
+- [x] Operações em Array
+- [x] Arrow Functions
+- [x] Valores padrão
+- [x] Desestruturação
+- [x] Operadores rest/spread
+- [x] Template Literals
+- [x] Object Short Syntax
 - [ ] Webpack server
 - [ ] Async/await
 
@@ -65,7 +65,7 @@
 | 1 | HTML básico e HTML5 - freecodecamp  |
 | 2 | Javascript básico - Curso starter Rocketseat && CSS básico - freecodecamp  |
 | 3 | Design Visual Aplicado(Cores, propriedades visuais de texto, animações, posicionamento elementos - freecodecamp |
-| 4 |   |
+| 4 |  Javascript ES6: Conceitos - Rocketseat |
 | 5 |   |
 | 6 |   |
 | 7 |   |
