@@ -47,8 +47,8 @@
 - [x] Operadores rest/spread
 - [x] Template Literals
 - [x] Object Short Syntax
-- [ ] Webpack server
-- [ ] Async/await
+- [x] Webpack server
+- [x] Async/await
 
 #### Node
 
@@ -65,8 +65,8 @@
 | 1 | HTML básico e HTML5 - freecodecamp  |
 | 2 | Javascript básico - Curso starter Rocketseat && CSS básico - freecodecamp  |
 | 3 | Design Visual Aplicado(Cores, propriedades visuais de texto, animações, posicionamento elementos - freecodecamp |
-| 4 |  Javascript ES6: Conceitos - Rocketseat |
-| 5 |   |
+| 4 | Javascript ES6: Conceitos - Rocketseat |
+| 5 | Javascript ES6: Webpack e async/await - Rocketseat |
 | 6 |   |
 | 7 |   |
 | 8 |   |
