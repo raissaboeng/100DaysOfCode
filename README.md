@@ -15,7 +15,7 @@
 - [x] HTML básico e HTML5 - freecodecamp
 - [x] CSS básico
 - [x] Design Visual Aplicado
-- [ ] Acessibilidade Aplicada
+- [x] Acessibilidade Aplicada
 - [ ] Princípios de Web Design Responsivo
 - [ ] CSS Flexbox
 - [ ] CSS Grid
@@ -67,7 +67,7 @@
 | 3 | Design Visual Aplicado(Cores, propriedades visuais de texto, animações, posicionamento elementos - freecodecamp |
 | 4 | Javascript ES6: Conceitos - Rocketseat |
 | 5 | Javascript ES6: Webpack e async/await - Rocketseat |
-| 6 |   |
+| 6 | Acessibilidade Aplicada - freecodecamp  |
 | 7 |   |
 | 8 |   |
 | 9 |   |
