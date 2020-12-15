@@ -68,9 +68,9 @@
 | 4 | Javascript ES6: Conceitos - Rocketseat |
 | 5 | Javascript ES6: Webpack e async/await - Rocketseat |
 | 6 | Acessibilidade Aplicada, Princípios de Web Design Responsivo, CSS flexbox e grid - freecodecamp  |
-| 7 |   |
-| 8 |   |
-| 9 |   |
+| 7 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
+| 8 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
+| 9 | Projeto Web design responsivo - Formulário de pesquisa  - freecodecamp |
 | 10 |   |
 | 11 |   |
 | 12 |   |
