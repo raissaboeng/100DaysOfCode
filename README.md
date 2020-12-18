@@ -19,7 +19,7 @@
 - [x] Princípios de Web Design Responsivo
 - [x] CSS Flexbox
 - [x] CSS Grid
-- [ ] Projetos de Web Design Responsivo
+- [x] Projetos de Web Design Responsivo
 
 #### Javascript básico
 - [x] Variáveis e dados
@@ -71,8 +71,8 @@
 | 7 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
 | 8 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
 | 9 | Projeto Web design responsivo - Formulário de pesquisa  - freecodecamp |
-| 10 |   |
-| 11 |   |
+| 10 | Projeto Web design responsivo - Landing Page de um produto & Página de documentação técnica  - freecodecamp  |
+| 11 | Projeto Web design responsivo - Portfólio pessoal  - freecodecamp |
 | 12 |   |
 | 13 |   |
 | 14 |   |
