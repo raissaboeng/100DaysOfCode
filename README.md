@@ -73,7 +73,7 @@
 | 9 | Projeto Web design responsivo - Formulário de pesquisa  - freecodecamp |
 | 10 | Projeto Web design responsivo - Landing Page de um produto & Página de documentação técnica  - freecodecamp  |
 | 11 | Projeto Web design responsivo - Portfólio pessoal  - freecodecamp |
-| 12 |   |
+| 12 | Guia de HTML - Rocketseat  |
 | 13 |   |
 | 14 |   |
 | 15 |   |
