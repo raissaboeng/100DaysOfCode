@@ -79,7 +79,7 @@
 | 11 | Projeto Web design responsivo - Portfólio pessoal  - freecodecamp |
 | 12 | Guia de HTML - Rocketseat  |
 | 13 | Guia de HTML - Rocketseat  |
-| 14 |   |
+| 14 | Javascript básico 23/111 - freecodecamp |
 | 15 |   |
 | 16 |   |
 | 17 |   |
