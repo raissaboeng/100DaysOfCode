@@ -11,8 +11,14 @@
 
 ## 📃 Conteúdo
 
-#### Web Design responsivo
-- [x] HTML básico e HTML5 - freecodecamp
+#### Guias base - Rocketseat
+- [x] HTML
+- [ ] CSS
+- [ ] Javascript
+- [ ] Git
+
+#### Web Design responsivo - freecodecamp
+- [x] HTML básico e HTML5 
 - [x] CSS básico
 - [x] Design Visual Aplicado
 - [x] Acessibilidade Aplicada
@@ -21,7 +27,7 @@
 - [x] CSS Grid
 - [x] Projetos de Web Design Responsivo
 
-#### Javascript básico
+#### Javascript básico - Rocketseat
 - [x] Variáveis e dados
 - [x] Operações matemáticas
 - [x] Funções
@@ -35,7 +41,7 @@
 - [x] Promises
 - [x] Utilizando Axios
 
-#### Javascript ES6
+#### Javascript ES6 - Rocketseat
 - [x] Instalando Node & Yarn
 - [x] Configurando Babel
 - [x] Classes
@@ -56,8 +62,6 @@
 
 #### React Native
 
-#### Git & Github
-
 ## 💻 Diário de Bordo
 
 | Dia  |  Conteúdo  |
@@ -74,7 +78,7 @@
 | 10 | Projeto Web design responsivo - Landing Page de um produto & Página de documentação técnica  - freecodecamp  |
 | 11 | Projeto Web design responsivo - Portfólio pessoal  - freecodecamp |
 | 12 | Guia de HTML - Rocketseat  |
-| 13 |   |
+| 13 | Guia de HTML - Rocketseat  |
 | 14 |   |
 | 15 |   |
 | 16 |   |
