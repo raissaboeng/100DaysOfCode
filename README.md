@@ -80,7 +80,7 @@
 | 12 | Guia de HTML - Rocketseat  |
 | 13 | Guia de HTML - Rocketseat  |
 | 14 | Javascript básico 23/111 - freecodecamp |
-| 15 |   |
+| 15 | Javascript básico 54/111 - freecodecamp |
 | 16 |   |
 | 17 |   |
 | 18 |   |
