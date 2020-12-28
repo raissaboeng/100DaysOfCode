@@ -58,7 +58,16 @@
 
 #### Node
 
-#### React
+#### React - Rocketseat Gostack
+- [x] Conceitos ReactJS
+- [x] Configurando Babel
+- [x] Configurando Webpack
+- [x] Componentização
+- [x] Propriedades
+- [x] Estado e Imutabilidade
+- [x] Importando CSS e imagens
+- [x] Listando Projetos da API
+- [x] Cadastrando Projetos
 
 #### React Native
 
@@ -80,7 +89,7 @@
 | 12 | Guia de HTML - Rocketseat  |
 | 13 | Guia de HTML - Rocketseat  |
 | 14 | Javascript básico 23/111 - freecodecamp |
-| 15 | Javascript básico 54/111 - freecodecamp |
+| 15 | Javascript básico 54/111 - freecodecamp e Front-end com ReactJS - primeiros conceitos - Rocketseat Bootcamp Gostack|
 | 16 |   |
 | 17 |   |
 | 18 |   |
