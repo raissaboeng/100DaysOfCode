@@ -90,7 +90,7 @@
 | 13 | Guia de HTML - Rocketseat  |
 | 14 | Javascript básico 23/111 - freecodecamp |
 | 15 | Javascript básico 84/111 - freecodecamp e Front-end com ReactJS - primeiros conceitos - Rocketseat Bootcamp Gostack|
-| 16 | Javascript básico 111/111 - freecodecamp  |
+| 16 | Javascript básico 111/111 - freecodecamp e Guia Javascript 4/11 módulos - Rocketseat |
 | 17 |   |
 | 18 |   |
 | 19 |   |
