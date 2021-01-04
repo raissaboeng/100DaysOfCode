@@ -14,7 +14,7 @@
 #### Guias base - Rocketseat
 - [x] HTML
 - [ ] CSS
-- [ ] Javascript
+- [x] Javascript
 - [ ] Git
 
 #### Web Design responsivo - freecodecamp
