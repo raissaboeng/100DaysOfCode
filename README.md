@@ -93,7 +93,7 @@
 | 16 | Javascript básico 111/111 - freecodecamp e Guia Javascript 4/11 módulos - Rocketseat |
 | 17 | Guia de Javascript 5/11 módulos - Rocketseat |
 | 18 | Guia de Javascript 11/11 módulos - Rocketseat |
-| 19 |   |
+| 19 |  Javascript Es6 20/31 - freecodecamp + Processo seletivo curso SoulCodeAcademy |
 | 20 |   |
 | 21 |   |
 | 22 |   |
