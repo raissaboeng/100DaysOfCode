@@ -13,7 +13,7 @@
 
 #### Guias base - Rocketseat
 - [x] HTML
-- [ ] CSS
+- [x] CSS
 - [x] Javascript
 - [ ] Git
 
@@ -84,7 +84,7 @@
 | 7 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
 | 8 | Projeto Web design responsivo - Página web de homenagem - freecodecamp |
 | 9 | Projeto Web design responsivo - Formulário de pesquisa  - freecodecamp |
-| 10 | Projeto Web design responsivo - Landing Page de um produto & Página de documentação técnica  - freecodecamp  |
+| 10 | Projeto Web design responsivo - Landing Page de um produto e Página de documentação técnica  - freecodecamp  |
 | 11 | Projeto Web design responsivo - Portfólio pessoal  - freecodecamp |
 | 12 | Guia de HTML - Rocketseat  |
 | 13 | Guia de HTML - Rocketseat  |
@@ -93,8 +93,8 @@
 | 16 | Javascript básico 111/111 - freecodecamp e Guia Javascript 4/11 módulos - Rocketseat |
 | 17 | Guia de Javascript 5/11 módulos - Rocketseat |
 | 18 | Guia de Javascript 11/11 módulos - Rocketseat |
-| 19 | Javascript Es6 20/31 - freecodecamp + Processo seletivo curso SoulCodeAcademy |
-| 20 | Javascript Es6 31/31 - freecodecamp |
+| 19 | Javascript Es6 20/31 - freecodecamp e Processo seletivo curso SoulCodeAcademy |
+| 20 | Javascript Es6 31/31 - freecodecamp e Guia CSS - Rocketseat |
 | 21 |   |
 | 22 |   |
 | 23 |   |
