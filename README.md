@@ -95,8 +95,8 @@
 | 18 | Guia de Javascript 11/11 módulos - Rocketseat |
 | 19 | Javascript Es6 20/31 - freecodecamp e Processo seletivo curso SoulCodeAcademy |
 | 20 | Javascript Es6 31/31 - freecodecamp e Guia CSS - Rocketseat |
-| 21 |   |
-| 22 |   |
+| 21 | Projeto para Portfólio TodoList com HTML, CSS e JS |
+| 22 | Projeto para Portfólio TodoList com HTML, CSS e JS  |
 | 23 |   |
 | 24 |   |
 | 25 |   |
