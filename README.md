@@ -97,7 +97,7 @@
 | 20 | Javascript Es6 31/31 - freecodecamp e Guia CSS - Rocketseat |
 | 21 | Projeto para Portfólio TodoList com HTML, CSS e JS |
 | 22 | Projeto para Portfólio TodoList com HTML, CSS e JS  |
-| 23 |   |
+| 23 | Projeto Todo List: https://github.com/raissaboeng/todolist |
 | 24 |   |
 | 25 |   |
 | 26 |   |
