@@ -98,8 +98,8 @@
 | 21 | Projeto para Portfólio TodoList com HTML, CSS e JS |
 | 22 | Projeto para Portfólio TodoList com HTML, CSS e JS  |
 | 23 | Projeto Todo List: https://github.com/raissaboeng/todolist |
-| 24 | Expressões Regulares - FreeCodeCamp |
-| 25 |   |
+| 24 | Javascript - Expressões Regulares - FreeCodeCamp & vídeos React iniciante|
+| 25 | Javascript - Debugging - FreeCodeCamp & vídeos React iniciante |
 | 26 |   |
 | 27 |   |
 | 28 |   |
