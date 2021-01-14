@@ -100,7 +100,7 @@
 | 23 | Projeto Todo List: https://github.com/raissaboeng/todolist |
 | 24 | Javascript - Expressões Regulares - FreeCodeCamp & vídeos React iniciante|
 | 25 | Javascript - Debugging - FreeCodeCamp & vídeos React iniciante |
-| 26 |   |
+| 26 | Início Projeto Todo List com React e vídeos de React iniciante sobre estrutura e organização código usando o create-react-app |
 | 27 |   |
 | 28 |   |
 | 29 |   |
