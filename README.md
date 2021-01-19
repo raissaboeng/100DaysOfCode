@@ -56,6 +56,10 @@
 - [x] Webpack server
 - [x] Async/await
 
+#### Outros
+- [x] Json-server
+
+
 #### Node
 
 #### React - Rocketseat Gostack
@@ -72,6 +76,7 @@
 - [x] styled-components
 - [x] Estrutura de projeto
 - [x] Comando create-react-app
+
 
 #### React Native
 
@@ -107,7 +112,7 @@
 | 26 | Início Projeto Todo List com React e vídeos de React iniciante sobre estrutura e organização código usando o create-react-app |
 | 27 | Funcionalidades do Todo List com React com função delete e criação de nova tarefa usando Hooks(useState) |
 | 28 | Configuração Todo List com React estilizado com styled-components e push pro github com ideias de implementações futuras |
-| 29 |  |
+| 29 | Utilizando Json-server para simular BD em aplicações ReactJS e testando com Insomnia |
 | 30 |   |
 | 31 |   |
 | 32 |   |
