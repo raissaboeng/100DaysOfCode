@@ -15,7 +15,7 @@
 - [x] HTML
 - [x] CSS
 - [x] Javascript
-- [ ] Git
+- [x] Git
 
 #### Web Design responsivo - freecodecamp
 - [x] HTML básico e HTML5 
@@ -113,7 +113,7 @@
 | 27 | Funcionalidades do Todo List com React com função delete e criação de nova tarefa usando Hooks(useState) |
 | 28 | Configuração Todo List com React estilizado com styled-components e push pro github com ideias de implementações futuras |
 | 29 | Utilizando Json-server para simular BD em aplicações ReactJS e testando com Insomnia |
-| 30 |   |
+| 30 | Guia Git Rocketseat  |
 | 31 |   |
 | 32 |   |
 | 33 |   |
