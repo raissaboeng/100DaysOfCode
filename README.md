@@ -115,7 +115,7 @@
 | 29 | Utilizando Json-server para simular BD em aplicações ReactJS e testando com Insomnia |
 | 30 | Guia Git Rocketseat  |
 | 31 | Curso React - Introdução - TreinaWeb e projeto https://github.com/raissaboeng/text-counter-react  |
-| 32 |   |
+| 32 | Curso React - Introdução - TreinaWeb Concluído e projeto https://github.com/raissaboeng/forms-to-add-courses-list-react |
 | 33 |   |
 | 34 |   |
 | 35 |   |
