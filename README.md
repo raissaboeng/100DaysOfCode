@@ -114,7 +114,7 @@
 | 28 | Configuração Todo List com React estilizado com styled-components e push pro github com ideias de implementações futuras |
 | 29 | Utilizando Json-server para simular BD em aplicações ReactJS e testando com Insomnia |
 | 30 | Guia Git Rocketseat  |
-| 31 |   |
+| 31 | Curso React - Introdução - TreinaWeb e projeto https://github.com/raissaboeng/text-counter-react  |
 | 32 |   |
 | 33 |   |
 | 34 |   |
