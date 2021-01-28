@@ -116,9 +116,9 @@
 | 30 | Guia Git Rocketseat  |
 | 31 | Curso React - Introdução - TreinaWeb e projeto https://github.com/raissaboeng/text-counter-react  |
 | 32 | Curso React - Introdução - TreinaWeb Concluído e projeto https://github.com/raissaboeng/forms-to-add-courses-list-react |
-| 33 |   |
-| 34 |   |
-| 35 |   |
+| 33 | Curso React - Dominando Componentes - TreinaWeb - 2/10 módulos |
+| 34 | Curso React - Dominando Componentes - TreinaWeb - 4/10 módulos |
+| 35 |  |
 | 36 |   |
 | 37 |   |
 | 38 |   |
