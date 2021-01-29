@@ -118,7 +118,7 @@
 | 32 | Curso React - Introdução - TreinaWeb Concluído e projeto https://github.com/raissaboeng/forms-to-add-courses-list-react |
 | 33 | Curso React - Dominando Componentes - TreinaWeb - 2/10 módulos |
 | 34 | Curso React - Dominando Componentes - TreinaWeb - 4/10 módulos |
-| 35 |  |
+| 35 | Curso React - Dominando Componentes - TreinaWeb Concluído e projeto https://github.com/raissaboeng/video-player-react |
 | 36 |   |
 | 37 |   |
 | 38 |   |
