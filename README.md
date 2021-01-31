@@ -120,6 +120,7 @@
 | 34 | Curso React - Dominando Componentes - TreinaWeb - 4/10 módulos |
 | 35 | Curso React - Dominando Componentes - TreinaWeb Concluído e projeto https://github.com/raissaboeng/video-player-react |
 | 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 2/10 e início projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
+| 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 6/10 e atualização do projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
 | 37 |   |
 | 38 |   |
 | 39 |   |
