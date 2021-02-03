@@ -123,7 +123,7 @@
 | 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 6/10 e atualização do projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
 | 37 | Curso React - Despertando o poder dos Hooks - TreinaWeb Concluído e projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
 | 38 | Maratona Discover - Aula 1 e curso básico Rocketseat: HTML que faz sentido para todos- elementos e Tags semânticas |
-| 39 | Cursos básicos Rocketseat: Nem tudo são pixels-valores e unidades de medida, Uma caixa dentro da outra-box model |
+| 39 | Cursos básicos Rocketseat: Nem tudo são pixels-valores e unidades de medida, Uma caixa dentro da outra-box model, App bonito até nos textos-estilização e uso de fontes |
 | 40 |   |
 | 41 |   |
 | 42 |   |
