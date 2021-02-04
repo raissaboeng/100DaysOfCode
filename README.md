@@ -56,9 +56,24 @@
 - [x] Webpack server
 - [x] Async/await
 
+#### Typescript
+- [x] Introdução ao TypeScript
+- [x] Mitos e Verdades
+- [x] Instalando o compilador e escrevendo primeiro código
+- [x] Criando e configurando o TSConfig
+- [x] Types
+- [x] Type Inference
+- [x] Type Aliases e Union
+- [ ] Type Aliases e Intersection
+- [ ] Classes
+- [ ] Interfaces
+- [ ] Type Alias vs. Interfaces
+- [ ] Generics
+- [ ] Type Utilities
+- [ ] Decorators
+
 #### Outros
 - [x] Json-server
-
 
 #### Node
 
