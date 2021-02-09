@@ -64,13 +64,13 @@
 - [x] Types
 - [x] Type Inference
 - [x] Type Aliases e Union
-- [ ] Type Aliases e Intersection
-- [ ] Classes
-- [ ] Interfaces
-- [ ] Type Alias vs. Interfaces
-- [ ] Generics
-- [ ] Type Utilities
-- [ ] Decorators
+- [x] Type Aliases e Intersection
+- [x] Classes
+- [x] Interfaces
+- [x] Type Alias vs. Interfaces
+- [x] Generics
+- [x] Type Utilities
+- [x] Decorators
 
 #### Outros
 - [x] Json-server
@@ -141,7 +141,7 @@
 | 39 | Cursos básicos Rocketseat: Nem tudo são pixels-valores e unidades de medida, Uma caixa dentro da outra-box model, App bonito até nos textos-estilização e uso de fontes |
 | 40 | Mini Curso Typescript 7/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
 | 41 | Maratona Discover - Aula 2 - Rocketseat |
-| 42 |   |
+| 42 | Mini Curso Typescript 14/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
 | 43 |   |
 | 44 |   |
 | 45 |   |
