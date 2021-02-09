@@ -142,7 +142,7 @@
 | 40 | Mini Curso Typescript 7/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
 | 41 | Maratona Discover - Aula 2 - Rocketseat |
 | 42 | Mini Curso Typescript 14/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
-| 43 |   |
+| 43 | Cursos básicos Rocketseat: Posso ver e ouvir o HTML-tags img, video e audio |
 | 44 |   |
 | 45 |   |
 | 46 |   |
