@@ -146,8 +146,8 @@
 | 44 | Cursos básicos Rocketseat: Formulários de outro planeta |
 | 45 | Maratona Discover - Aula 3 - Rocketseat |
 | 46 | Maratona Discover - Aula 3 - Rocketseat |
-| 47 |   |
-| 48 |   |
+| 47 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance |
+| 48 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance  |
 | 49 |   |
 | 50 |   |
 | 51 |   |
