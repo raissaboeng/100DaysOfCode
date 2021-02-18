@@ -148,7 +148,7 @@
 | 46 | Maratona Discover - Aula 3 - Rocketseat |
 | 47 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance |
 | 48 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance  |
-| 49 |   |
+| 49 | Cursos básicos Rocketseat: Nem só de classes ou ID's- seletores, pseudo-classes e pseudo-elements |
 | 50 |   |
 | 51 |   |
 | 52 |   |
