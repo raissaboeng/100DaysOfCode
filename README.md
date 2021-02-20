@@ -150,7 +150,7 @@
 | 48 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance  |
 | 49 | Cursos básicos Rocketseat: Nem só de classes ou ID's- seletores, pseudo-classes e pseudo-elements e criação de um formulário de contato |
 | 50 | Contact Form: https://github.com/raissaboeng/contact-form usando html, css e js |
-| 51 |   |
+| 51 | Projeto Landing Page com html, css e js: https://github.com/raissaboeng/landing-page-masterclass - header e estrutura do conteudo html |
 | 52 |   |
 | 53 |   |
 | 54 |   |
