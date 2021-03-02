@@ -152,11 +152,11 @@
 | 50 | Contact Form: https://github.com/raissaboeng/contact-form usando html, css e js |
 | 51 | Projeto Landing Page com html, css e js: https://github.com/raissaboeng/landing-page-masterclass - header e estrutura do conteudo html |
 | 52 | Projeto Landing Page com responsividade concluído: https://github.com/raissaboeng/landing-page-masterclass |
-| 53 |   |
-| 54 |   |
-| 55 |   |
-| 56 |   |
-| 57 |   |
+| 53 | NLW#4 - Trilha React - Aula 01  |
+| 54 | NLW#4 - Trilha React - Aula 02  |
+| 55 | NLW#4 - Trilha React - Aula 03  |
+| 56 | NLW#4 - Trilha React - Aula 04  |
+| 57 | NLW#4 - Trilha React - Aula 05  |
 | 58 |   |
 | 59 |   |
 | 60 |   |
