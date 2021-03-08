@@ -95,6 +95,8 @@
 
 #### React Native
 
+#### Vue
+
 ## 💻 Diário de Bordo
 
 | Dia  |  Conteúdo  |
@@ -157,7 +159,7 @@
 | 55 | NLW#4 - Trilha React - Aula 03  |
 | 56 | NLW#4 - Trilha React - Aula 04  |
 | 57 | NLW#4 - Trilha React - Aula 05  |
-| 58 |   |
+| 58 | Curso de Vue.JS |
 | 59 |   |
 | 60 |   |
 | 61 |   |
