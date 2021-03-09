@@ -96,6 +96,13 @@
 #### React Native
 
 #### Vue
+- [x] Single-File Components
+- [x] Data-binding
+- [x] Diretivas
+- [x] Eventos e métodos
+- [x] Novas sintaxes e antiga
+- [x] LifeCycle Hooks
+
 
 ## 💻 Diário de Bordo
 
@@ -123,37 +130,37 @@
 | 20 | Javascript Es6 31/31 - freecodecamp e Guia CSS - Rocketseat |
 | 21 | Projeto para Portfólio TodoList com HTML, CSS e JS |
 | 22 | Projeto para Portfólio TodoList com HTML, CSS e JS  |
-| 23 | Projeto Todo List: https://github.com/raissaboeng/todolist |
+| 23 | [Projeto Todo List](https://github.com/raissaboeng/todolist) |
 | 24 | Javascript - Expressões Regulares - FreeCodeCamp & vídeos React iniciante|
 | 25 | Javascript - Debugging - FreeCodeCamp & vídeos React iniciante |
 | 26 | Início Projeto Todo List com React e vídeos de React iniciante sobre estrutura e organização código usando o create-react-app |
 | 27 | Funcionalidades do Todo List com React com função delete e criação de nova tarefa usando Hooks(useState) |
 | 28 | Configuração Todo List com React estilizado com styled-components e push pro github com ideias de implementações futuras |
 | 29 | Utilizando Json-server para simular BD em aplicações ReactJS e testando com Insomnia |
-| 30 | Guia Git Rocketseat  |
-| 31 | Curso React - Introdução - TreinaWeb e projeto https://github.com/raissaboeng/text-counter-react  |
-| 32 | Curso React - Introdução - TreinaWeb Concluído e projeto https://github.com/raissaboeng/forms-to-add-courses-list-react |
+| 30 | Guia Git Rocketseat |
+| 31 | Curso React - Introdução - TreinaWeb e Projeto [Text counter](https://github.com/raissaboeng/text-counter-react)  |
+| 32 | Curso React - Introdução - TreinaWeb Concluído e projeto [Forms to add courses in list](https://github.com/raissaboeng/forms-to-add-courses-list-react) |
 | 33 | Curso React - Dominando Componentes - TreinaWeb - 2/10 módulos |
 | 34 | Curso React - Dominando Componentes - TreinaWeb - 4/10 módulos |
-| 35 | Curso React - Dominando Componentes - TreinaWeb Concluído e projeto https://github.com/raissaboeng/video-player-react |
-| 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 2/10 e início projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
-| 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 6/10 e atualização do projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
-| 37 | Curso React - Despertando o poder dos Hooks - TreinaWeb Concluído e projeto https://github.com/raissaboeng/list-video-react-hooks.git  |
+| 35 | Curso React - Dominando Componentes - TreinaWeb Concluído e projeto [Video Player](https://github.com/raissaboeng/video-player-react) |
+| 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 2/10 e início projeto [List video](https://github.com/raissaboeng/list-video-react-hooks.git) |
+| 36 | Curso React - Despertando o poder dos Hooks - TreinaWeb 6/10 e atualização do projeto [List video](https://github.com/raissaboeng/list-video-react-hooks.git) |
+| 37 | Curso React - Despertando o poder dos Hooks - TreinaWeb Concluído e projeto [List video](https://github.com/raissaboeng/list-video-react-hooks.git) |
 | 38 | Maratona Discover - Aula 1 e curso básico Rocketseat: HTML que faz sentido para todos- elementos e Tags semânticas |
 | 39 | Cursos básicos Rocketseat: Nem tudo são pixels-valores e unidades de medida, Uma caixa dentro da outra-box model, App bonito até nos textos-estilização e uso de fontes |
-| 40 | Mini Curso Typescript 7/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
+| 40 | [Mini Curso Typescript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) 7/14 |
 | 41 | Maratona Discover - Aula 2 - Rocketseat |
-| 42 | Mini Curso Typescript 14/14 : https://willianjusten.com.br/mini-curso-gratuito-de-typescript/ |
+| 42 | [Mini Curso Typescript](https://willianjusten.com.br/mini-curso-gratuito-de-typescript/) 14/14 |
 | 43 | Cursos básicos Rocketseat: Posso ver e ouvir o HTML-tags img, video e audio |
 | 44 | Cursos básicos Rocketseat: Formulários de outro planeta |
 | 45 | Maratona Discover - Aula 3 - Rocketseat |
 | 46 | Maratona Discover - Aula 3 - Rocketseat |
-| 47 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance |
-| 48 | Maratona Discover - Personalização do projeto https://github.com/raissaboeng/maratona-discover-finance  |
+| 47 | Maratona Discover - Personalização do projeto [dev.finance](https://github.com/raissaboeng/maratona-discover-finance) |
+| 48 | Maratona Discover - Personalização do projeto [dev.finance](https://github.com/raissaboeng/maratona-discover-finance)  |
 | 49 | Cursos básicos Rocketseat: Nem só de classes ou ID's- seletores, pseudo-classes e pseudo-elements e criação de um formulário de contato |
-| 50 | Contact Form: https://github.com/raissaboeng/contact-form usando html, css e js |
-| 51 | Projeto Landing Page com html, css e js: https://github.com/raissaboeng/landing-page-masterclass - header e estrutura do conteudo html |
-| 52 | Projeto Landing Page com responsividade concluído: https://github.com/raissaboeng/landing-page-masterclass |
+| 50 | [Contact Form](https://github.com/raissaboeng/contact-form) usando html, css e js |
+| 51 | Projeto [Landing Page](https://github.com/raissaboeng/landing-page-masterclass) com html, css e js:  - header e estrutura do conteudo html |
+| 52 | Projeto  [Landing Page](https://github.com/raissaboeng/landing-page-masterclass) com responsividade concluído |
 | 53 | NLW#4 - Trilha React - Aula 01  |
 | 54 | NLW#4 - Trilha React - Aula 02  |
 | 55 | NLW#4 - Trilha React - Aula 03  |
