@@ -159,7 +159,7 @@
 | 55 | NLW#4 - Trilha React - Aula 03  |
 | 56 | NLW#4 - Trilha React - Aula 04  |
 | 57 | NLW#4 - Trilha React - Aula 05  |
-| 58 | Live com Visão geral sobre Vue.Js - Curso de Vue.JS http://treinamento.vuejsbrasil.org/ |
+| 58 | Live com Visão geral sobre Vue.Js - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 59 | Módulo 1 completo e Módulo 2: Single-file components, Data-binding e Diretivas - Curso de Vue.js |
 | 60 | Módulo 2: Eventos e métodos - Curso de Vue.js  |
 | 61 |   |
