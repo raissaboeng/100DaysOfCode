@@ -170,7 +170,7 @@
 | 59 | Módulo 1 completo e Módulo 2: Single-file components, Data-binding e Diretivas - Curso de Vue.js |
 | 60 | Módulo 2: Eventos e métodos, Nova sintaxe e antiga, Life-cycle hooks e Módulo 3:Início do Projeto - Curso de Vue.js |
 | 61 | Modulo 4: Criando o dashboard - Configurando projeto e introdução a roteamento |
-| 62 |   |
+| 62 | Modulo 4: Criando a tela inicial - Parte 1 e parte 2 |
 | 63 |   |
 | 64 |   |
 | 65 |   |
