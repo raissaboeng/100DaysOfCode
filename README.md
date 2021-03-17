@@ -167,15 +167,15 @@
 | 56 | NLW#4 - Trilha React - Aula 04  |
 | 57 | NLW#4 - Trilha React - Aula 05  |
 | 58 | Live com Visão geral sobre Vue.Js - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
-| 59 | Módulo 1 completo e Módulo 2: Single-file components, Data-binding e Diretivas - Curso de Vue.js |
-| 60 | Módulo 2: Eventos e métodos, Nova sintaxe e antiga, Life-cycle hooks e Módulo 3:Início do Projeto - Curso de Vue.js |
-| 61 | Modulo 4: Criando o dashboard - Configurando projeto e introdução a roteamento |
-| 62 | Modulo 4: Criando a tela inicial - Parte 1 e parte 2 |
-| 63 | Modulo 4: Criando Modal Login - Parte 1 e parte 2  |
-| 64 |   |
-| 65 |   |
-| 66 |   |
-| 67 |   |
+| 59 | Módulo 1 completo e Módulo 2: Single-file components, Data-binding e Diretivas - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
+| 60 | Módulo 2: Eventos e métodos, Nova sintaxe e antiga, Life-cycle hooks e Módulo 3:Início do Projeto - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/)|
+| 61 | Modulo 4: Criando o dashboard - Configurando projeto e introdução a roteamento - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
+| 62 | Modulo 4: Criando a tela inicial - Parte 1 e parte 2 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
+| 63 | Modulo 4: Criando Modal Factory - Parte 1 e parte 2 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
+| 64 | Curso DIO - Vue básico: Introdução, configuração vscode e extensões |
+| 65 | Curso DIO - Vue básico: Conhecendo vue CLI e UI|
+| 66 | Curso DIO - Vue básico: Conclusão módulo 1 |
+| 67 | Modulo 4: Criando Modal Login - Parte 1 e parte 2 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 68 |   |
 | 69 |   |
 | 70 |   |
