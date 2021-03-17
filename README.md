@@ -176,7 +176,7 @@
 | 65 | Curso DIO - Vue básico: Conhecendo vue CLI e UI|
 | 66 | Curso DIO - Vue básico: Conclusão módulo 1 |
 | 67 | Modulo 4: Criando Modal Login - Parte 1 e parte 2 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
-| 68 |   |
+| 68 | Modulo 4: Criando Modal Login - Parte 3 e parte 4 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 69 |   |
 | 70 |   |
 | 71 |   |
