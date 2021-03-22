@@ -178,7 +178,7 @@
 | 67 | Modulo 4: Criando Modal Login - Parte 1 e parte 2 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 68 | Modulo 4: Criando Modal Login - Parte 3 e parte 4 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 69 | Modulo 4: Criando Modal de cadastro e Pegando usuário logado e controlando rotas autenticadas - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
-| 70 | Modulo 4: Introdução estado global no Vue 3 - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
+| 70 | Modulo 4: Introdução estado global no Vue 3 e Criando tela de credenciais (Parte 1) - [Curso de Vue.JS](http://treinamento.vuejsbrasil.org/) |
 | 71 |   |
 | 72 |   |
 | 73 |   |
